@@ -81,6 +81,21 @@ hr {
 	text-align: center;
 }
 
+/* Author list styles */
+.author-list {
+    .co-first-author {
+        position: relative;
+        &::after {
+            content: "*";
+            position: absolute;
+            top: -8px;
+            right: -12px;
+            font-size: 12px;
+            color: $accent;
+        }
+    }
+}
+
 /* Mobile */
 
 @media (max-width: 800px) {
