@@ -57,4 +57,24 @@
         text-align: center;
         width: 100%;
     }
+    
+    .co-first-author {
+        font-weight: bold;
+        position: relative;
+    }
+    
+    .co-first-author::after {
+        content: "*";
+        position: absolute;
+        top: -0.5em;
+        right: -0.8em;
+        font-size: 0.8em;
+        color: $accent;
+    }
+    
+    /* 突出显示本人名字 */
+    .my-name {
+        font-style: italic;
+        color: $accent;
+    }
 }
