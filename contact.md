@@ -3,12 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [kefanyu2026@u.northwestern.edu](mailto:kefanyu2026@u.northwestern.edu)
 
 ---
 
 ## Social
 
 1. [Google Scholar](#)
-2. [X](#)
-3. [BlueSky](#)
+2. [X](https://x.com/kefanyu0529)
+3. [BlueSky](https://bsky.app/profile/kefanyu.bsky.social)
+4. [LinkedIn](https://www.linkedin.com/in/kefan-yu-22723a25b/)
