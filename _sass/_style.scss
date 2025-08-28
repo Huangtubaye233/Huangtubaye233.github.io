@@ -1,5 +1,8 @@
 @import "vars";
 
+@import "typography";
+@import "tables";
+
 /*
  * Basic
  */
@@ -126,6 +129,3 @@ hr {
 		margin: 0;
 	}
 }
-
-@import "typography";
-@import "tables";
