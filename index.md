@@ -4,11 +4,13 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+Hi there! I am Kefan Yu, a final-year undergraduate at Northwestern University. I am broadly interested in Natural Language Processing. 
+
+<img class="profile-picture" src="KefanYu.JPG">
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+
 
 ## Publications
 
