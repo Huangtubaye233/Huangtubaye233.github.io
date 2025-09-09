@@ -7,9 +7,9 @@ title: Kefan Yu - Research
 
 <img class="profile-picture" src="KefanYu.JPG">
 
-I am Kefan Yu, a final-year undergraduate majoring in Computer Science at Northwestern University. I am broadly interested in Natural Language Processing. 
+I am Kefan Yu, a final-year undergraduate majoring in Computer Science at Northwestern University, with broad interest in Natural Language Processing. 
 
-This summer, I am fortunate to work as a research assistant at [TTIC](https://www.ttic.edu/), supervised by Prof. [Zhewei Sun](https://zhewei-sun.github.io/). I am also a member of [LingMechLab](https://sites.northwestern.edu/lingmechlab/) and [MLL-Lab](https://mll-lab-nu.github.io/) at Northwestern, mentored by the gorgeous [Qingcheng Zeng](https://qcznlp.github.io/) and [Zihan Wang](https://zihanwang314.github.io/), respectively. 
+This summer, I am fortunate to work as a research assistant at [TTIC](https://www.ttic.edu/), supervised by Prof. [Zhewei Sun](https://zhewei-sun.github.io/). I also serve as a member of [LingMechLab](https://sites.northwestern.edu/lingmechlab/) and [MLL-Lab](https://mll-lab-nu.github.io/) at Northwestern, mentored by the gorgeous [Qingcheng Zeng](https://qcznlp.github.io/) and [Zihan Wang](https://zihanwang314.github.io/), respectively. 
 
 ## Research Interest
 
