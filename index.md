@@ -13,7 +13,7 @@ This summer, I am fortunate to work as a research assistant at [TTIC](https://ww
 
 ## Research Interest
 
-My current research interest is about how we can interpret, evaluate, and (hopefully) improve the current AI systems. Given my interest, these tasks are more driven by linguistics (especially pragmatics) perspectives. I am also interested in multilinguality and low-resource settings, including how models understand and handle under-represented languages such as slang.
+My current research interest is about how we can interpret, evaluate, and (hopefully) improve the current AI systems. Given my interest, these tasks are mostly driven by linguistics (especially pragmatics) perspectives. I am also interested in multilinguality and low-resource settings, including how models understand and handle under-represented languages such as slang.
 
 [This post](https://seantrott.substack.com/p/so-you-want-to-be-an-llm-ologist) has profoundly shaped my research perspective and current work.
 
