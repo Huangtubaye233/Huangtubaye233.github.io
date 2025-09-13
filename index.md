@@ -13,7 +13,7 @@ This summer, I am fortunate to work as a research assistant at [TTIC](https://ww
 
 ## Research Interest
 
-I am broadly interested in how we can interpret, evaluate, and (hopefully) improve current AI systems, and much of my work is driven by linguistics (especially pragmatics) perspectives. I am also interested in multilinguality and how models understand and handle under-represented languages such as slang.
+I am broadly interested in how we can interpret, evaluate, and (hopefully) improve current AI systems. Much of my work is driven by linguistics (especially pragmatics) perspectives. I am also interested in multilinguality and how models understand and handle under-represented languages such as slang.
 
 [This post](https://seantrott.substack.com/p/so-you-want-to-be-an-llm-ologist) has profoundly shaped my research perspective and current work.
 
