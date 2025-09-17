@@ -9,7 +9,7 @@ is_contact: true
 
 ## Social
 
-1. [Google Scholar](#)
+1. [Google Scholar](https://scholar.google.com/citations?hl=en&user=KxXUaNAAAAAJ)
 2. [X](https://x.com/kefanyu0529)
 3. [BlueSky](https://bsky.app/profile/kefanyu.bsky.social)
 4. [LinkedIn](https://www.linkedin.com/in/kefan-yu-22723a25b/)
