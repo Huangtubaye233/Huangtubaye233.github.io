@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: kefanyu2026[at]u[dot]northwestern[dot]edu
+* Email: kefanyu2026 [at] u [dot] northwestern [dot] edu
 
 ---
 
