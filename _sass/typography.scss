@@ -38,11 +38,12 @@
     }
     .profile-picture {
         height: $image-size;
-        width: $image-size;
+        width: auto;
         position: relative;
         margin: -10px 0 0 15px;
         float: right;
         border-radius: 8px;
+        object-fit: contain;
         p & {
             padding: 0;
             margin: 0;
