@@ -13,18 +13,20 @@ Starting from the past summer, I am fortunate to work as a research assistant at
 
 ## Research Interest
 
-I am interested in how we can interpret, evaluate, and (hopefully) improve current AI systems. Much of my work is driven by linguistics (especially pragmatics) and cognitive science perspectives. I am also interested in multilinguality and how models understand and handle under-represented languages such as slang.
+I am interested in how we can evaluate, interpret, and (hopefully) improve current AI systems. Much of my work is driven by linguistics (especially pragmatics) and cognitive science perspectives. I am also interested in multilinguality and how models understand and handle low-resource languages.
 
 [This post](https://seantrott.substack.com/p/so-you-want-to-be-an-llm-ologist) has profoundly shaped my research perspective and current work.
 
 ## Publications
 
-### Preprints
+### Conference Papers
 
 **The Pragmatic Mind of Machines: Tracing the Emergence of Pragmatic Competence in Large Language Models**  
 <span class="co-first-author my-name">Kefan Yu</span>, <span class="co-first-author">Qingcheng Zeng</span>, Weihao Xuan, Wanxin Li, Jingyi Wu, Rob Voigt  
-arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2505.18497)]  
-*Also accepted at [COLM 2025 Workshop: PragLM](https://sites.google.com/berkeley.edu/praglm/)*
+to appear in EACL, 2026. [[Paper](https://arxiv.org/abs/2505.18497)]  
+*Also presented at [COLM 2025 Workshop: PragLM](https://sites.google.com/berkeley.edu/praglm/)*
+
+### Preprints
 
 **RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning**  
 <span class="co-first-author">Zihan Wang</span>, <span class="co-first-author">Kangrui Wang</span>, <span class="co-first-author">Qineng Wang</span>, <span class="co-first-author">Pingyue Zhang</span>, <span class="co-first-author">Linjie Li</span>, Zhengyuan Yang, Xing Jin, <span class="my-name">Kefan Yu</span>, Minh Nhat Nguyen, Licheng Liu, Eli Gottlieb, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li  
