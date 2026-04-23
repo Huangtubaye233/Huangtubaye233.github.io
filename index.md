@@ -23,14 +23,14 @@ I am interested in how we can evaluate, interpret, and (hopefully) improve curre
 
 **The Pragmatic Mind of Machines: Tracing the Emergence of Pragmatic Competence in Large Language Models**  
 <span class="co-first-author my-name">Kefan Yu</span>, <span class="co-first-author">Qingcheng Zeng</span>, Weihao Xuan, Wanxin Li, Jingyi Wu, Rob Voigt  
-to appear in **EACL, 2026 (Oral)**. [[Paper](https://arxiv.org/abs/2505.18497)]  
+**EACL, 2026 (Oral)**. [[Paper](https://arxiv.org/abs/2505.18497)]  
 *Also presented at [COLM 2025 Workshop: PragLM](https://sites.google.com/berkeley.edu/praglm/)*
 
 ### Preprints
 
-<!-- **RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning**  
+**RAGEN: Understanding Self-Evolution in LLM Agents via Multi-Turn Reinforcement Learning**  
 <span class="co-first-author">Zihan Wang</span>, <span class="co-first-author">Kangrui Wang</span>, <span class="co-first-author">Qineng Wang</span>, <span class="co-first-author">Pingyue Zhang</span>, <span class="co-first-author">Linjie Li</span>, Zhengyuan Yang, Xing Jin, <span class="my-name">Kefan Yu</span>, Minh Nhat Nguyen, Licheng Liu, Eli Gottlieb, Yiping Lu, Kyunghyun Cho, Jiajun Wu, Li Fei-Fei, Lijuan Wang, Yejin Choi, Manling Li  
-arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2504.20073)] -->
+arXiv preprint, 2025. [[Paper](https://arxiv.org/abs/2504.20073)]
 
 ## Miscellanea
 I do some workouts, watch some anime, and listen to some JPOP.
