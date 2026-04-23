@@ -23,7 +23,7 @@ I am interested in how we can evaluate, interpret, and (hopefully) improve curre
 
 **The Pragmatic Mind of Machines: Tracing the Emergence of Pragmatic Competence in Large Language Models**  
 <span class="co-first-author my-name">Kefan Yu</span>, <span class="co-first-author">Qingcheng Zeng</span>, Weihao Xuan, Wanxin Li, Jingyi Wu, Rob Voigt  
-**EACL, 2026 (Oral)**. [[Paper](https://arxiv.org/abs/2505.18497)]  
+**EACL main conference, 2026**. [[Paper](https://arxiv.org/abs/2505.18497)]  
 *Also presented at [COLM 2025 Workshop: PragLM](https://sites.google.com/berkeley.edu/praglm/)*
 
 ### Preprints
