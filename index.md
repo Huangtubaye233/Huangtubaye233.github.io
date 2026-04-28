@@ -3,19 +3,25 @@ layout: default
 title: Kefan Yu  
 ---
 
-## About Me
+## About
 
 <img class="profile-picture" src="KefanYu.JPG">
 
-I am a final-year undergraduate majoring in Computer Science at Northwestern University, with broad interest in Computational Linguistics and Natural Language Processing. 
+<!-- I am a final-year undergraduate majoring in Computer Science at Northwestern University, with broad interest in Computational Linguistics and Natural Language Processing.  -->
+
+I am a final-year undergraduate majoring in Computer Science at Northwestern University, and I am interested in building and understanding Agentic Systems, with a focus on LLM reasoning and multimodal perception.
+
+<!-- , with broad interest in Agentic Systems and Natural Language Processing.  -->
 
 Starting from the past summer, I am fortunate to work as a research assistant at [TTIC](https://www.ttic.edu/), supervised by Prof. [Zhewei Sun](https://zhewei-sun.github.io/). I also serve as a member of [LingMechLab](https://sites.northwestern.edu/lingmechlab/) and [MLL-Lab](https://mll-lab-nu.github.io/) at Northwestern, mentored by the gorgeous [Qingcheng Zeng](https://qcznlp.github.io/) and [Zihan Wang](https://zihanwang314.github.io/), respectively. 
 
-## Research Interest
+<!-- ## Research Interest -->
 
-I am interested in how we can evaluate, interpret, and (hopefully) improve current AI systems. Much of my work is driven by linguistics (especially pragmatics) and cognitive science perspectives. I am also interested in multilinguality and how models understand and handle low-resource languages.
+<!-- I am interested in how we can evaluate, interpret, and (hopefully) improve current AI systems. Much of my work is 
+driven by linguistics (especially pragmatics) and cognitive science perspectives. I am also interested in 
+multilinguality and how models understand and handle low-resource languages. -->
 
-[This post](https://seantrott.substack.com/p/so-you-want-to-be-an-llm-ologist) has profoundly shaped my research perspective and current work.
+<!-- [This post](https://seantrott.substack.com/p/so-you-want-to-be-an-llm-ologist) has profoundly shaped my research perspective and current work. -->
 
 ## Publications
 
