@@ -9,7 +9,7 @@ title: Kefan Yu
 
 <!-- I am a final-year undergraduate majoring in Computer Science at Northwestern University, with broad interest in Computational Linguistics and Natural Language Processing.  -->
 
-I am a final-year undergraduate majoring in Computer Science at Northwestern University, and I am interested in building and understanding Agentic Systems, with a focus on LLM reasoning and multimodal perception.
+I am a final-year undergraduate majoring in Computer Science at Northwestern University, and I am interested in building and understanding agentic systems, with a focus on LLM reasoning and multimodal perception.
 
 <!-- , with broad interest in Agentic Systems and Natural Language Processing.  -->
 
